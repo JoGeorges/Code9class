@@ -18,6 +18,6 @@ elif ((sum/(deno*num_notes)) < 0.8 and (sum/(deno*num_notes))>= 0.7):
 elif ((sum/(deno*num_notes)) < 0.7 and (sum/(deno*num_notes)) >= 0.6):
     print("\tOu jwenn mansyon D\n")
 else:
-    print("\tOu jwenn mansyon F")
+    print("\tOu jwenn mansyon F\n")
 print("\tMèsi dèske ou te pran tan pou w itlize pwogram sila a.")
 print("\t__GEORGES Jonathan___\n")
